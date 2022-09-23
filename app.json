@@ -1,0 +1,7 @@
+{
+    "name": "github-notifications-to-slack",
+    "language": "python",
+    "resources": {
+        "source_name": "fixtures/demo-cdc.json"
+    }
+}
